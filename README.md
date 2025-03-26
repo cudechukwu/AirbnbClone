@@ -16,17 +16,6 @@ This project replicates key UI/UX components of Airbnb, with plans to integrate 
 
 ---
 
-## 📱 Screenshots
-
-
-<img width="1199" alt="Screenshot 2025-03-26 at 11 05 17" src="https://github.com/user-attachments/assets/0744af7f-f99a-42b9-a8be-6d14daf4d118" />
-<img width="1195" alt="Screenshot 2025-03-26 at 11 05 10" src="https://github.com/user-attachments/assets/24a8bfd2-80c3-4cc1-818e-142142aaf78b" />
-<img width="1194" alt="Screenshot 2025-03-26 at 11 05 02" src="https://github.com/user-attachments/assets/5630509b-77c7-41d1-90cc-ca8d5fd6e85a" />
-<img width="1195" alt="Screenshot 2025-03-26 at 11 04 53" src="https://github.com/user-attachments/assets/6d8da7ea-e858-4230-bd0a-c57d8d000252" />
-<img width="1195" alt="Screenshot 2025-03-26 at 11 04 39" src="https://github.com/user-attachments/assets/4f38e470-1ce2-43d9-9746-84d767ecb3e6" />
-
----
-
 ## 🛠 Tech Stack
 
 - **Language**: Swift
@@ -47,5 +36,12 @@ This project replicates key UI/UX components of Airbnb, with plans to integrate 
 
 ---
 
-## 📂 Project Structure
+## 📱 Screenshots
+
+
+<img width="1199" alt="Screenshot 2025-03-26 at 11 05 17" src="https://github.com/user-attachments/assets/0744af7f-f99a-42b9-a8be-6d14daf4d118" />
+<img width="1195" alt="Screenshot 2025-03-26 at 11 05 10" src="https://github.com/user-attachments/assets/24a8bfd2-80c3-4cc1-818e-142142aaf78b" />
+<img width="1194" alt="Screenshot 2025-03-26 at 11 05 02" src="https://github.com/user-attachments/assets/5630509b-77c7-41d1-90cc-ca8d5fd6e85a" />
+<img width="1195" alt="Screenshot 2025-03-26 at 11 04 53" src="https://github.com/user-attachments/assets/6d8da7ea-e858-4230-bd0a-c57d8d000252" />
+<img width="1195" alt="Screenshot 2025-03-26 at 11 04 39" src="https://github.com/user-attachments/assets/4f38e470-1ce2-43d9-9746-84d767ecb3e6" />
 
