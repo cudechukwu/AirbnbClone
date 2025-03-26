@@ -18,11 +18,12 @@ This project replicates key UI/UX components of Airbnb, with plans to integrate 
 
 ## 📱 Screenshots
 
----<img width="1440" alt="Screenshot 2025-03-26 at 11 00 58" src="https://github.com/user-attachments/assets/2eff26d1-8dcb-41a1-b0fb-84c89a0497d0" />
-<img width="1440" alt="Screenshot 2025-03-26 at 11 00 54" src="https://github.com/user-attachments/assets/6101198b-fd56-4ab7-a678-0d15aa7bacda" />
-<img width="1440" alt="Screenshot 2025-03-26 at 11 00 35" src="https://github.com/user-attachments/assets/87f9e055-51d2-4869-9e28-4d3161224790" />
-<img width="1440" alt="Screenshot 2025-03-26 at 11 00 17" src="https://github.com/user-attachments/assets/c6826957-b2f5-43e2-908f-e96c691faa9c" />
-<img width="1440" alt="Screenshot 2025-03-26 at 11 00 10" src="https://github.com/user-attachments/assets/2fda75ac-6538-41c9-b867-b8c8f3524b17" />
+
+<img width="1199" alt="Screenshot 2025-03-26 at 11 05 17" src="https://github.com/user-attachments/assets/0744af7f-f99a-42b9-a8be-6d14daf4d118" />
+<img width="1195" alt="Screenshot 2025-03-26 at 11 05 10" src="https://github.com/user-attachments/assets/24a8bfd2-80c3-4cc1-818e-142142aaf78b" />
+<img width="1194" alt="Screenshot 2025-03-26 at 11 05 02" src="https://github.com/user-attachments/assets/5630509b-77c7-41d1-90cc-ca8d5fd6e85a" />
+<img width="1195" alt="Screenshot 2025-03-26 at 11 04 53" src="https://github.com/user-attachments/assets/6d8da7ea-e858-4230-bd0a-c57d8d000252" />
+<img width="1195" alt="Screenshot 2025-03-26 at 11 04 39" src="https://github.com/user-attachments/assets/4f38e470-1ce2-43d9-9746-84d767ecb3e6" />
 
 ---
 
